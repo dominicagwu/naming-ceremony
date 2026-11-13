@@ -10,8 +10,9 @@ interface PhotoGalleryProps {
 const photos = [
   { src: '/images/image1.jpeg', title: 'A beautiful beginning' },
   { src: '/images/image2.jpeg', title: 'A love that grows' },
-  { src: '/images/image3.jpeg', title: 'A family filled with love' },
+  { src: '/images/image5.jpeg', title: 'A family filled with love' },
   { src: '/images/image4.jpeg', title: 'Our greatest blessing' },
+   { src: '/images/image6.jpeg', title: 'Our greatest blessing' },
 ]
 
 export default function PhotoGallery({ onContinue }: PhotoGalleryProps) {
