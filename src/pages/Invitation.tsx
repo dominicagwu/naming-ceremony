@@ -18,7 +18,7 @@ export default function Invitation() {
         </p>
 
         <h1 className="mb-4 font-serif text-4xl text-[#76564f] md:text-5xl">
-          A Naming Ceremony
+          The Naming Ceremony
         </h1>
 
         <p className="mb-8 font-serif text-xl italic text-[#9b756b]">
